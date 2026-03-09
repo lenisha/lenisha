@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lenisha&show_icons=true&locale=en" alt="lenisha" /></p>
+<p>[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=lenisha&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)</p>
 
 [![Lenisha GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=lenisha)](https://github.com/pranesh-2005/github-readme-stats-fast)
