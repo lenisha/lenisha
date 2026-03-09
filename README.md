@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=lenisha&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)</p>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=lenisha)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 [![Lenisha GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=lenisha)](https://github.com/pranesh-2005/github-readme-stats-fast)
